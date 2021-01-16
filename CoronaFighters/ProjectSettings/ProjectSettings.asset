@@ -619,6 +619,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -632,10 +633,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: cbfbb0af-bceb-41ab-84c4-0966ff894f95
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: CoronaFighters
+  organizationId: jaskirat-f4da46e2-6b38-428f-a35c-b5d682f1e1d6
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
