@@ -16,6 +16,6 @@ public class PlayGameButton : MonoBehaviour
 
     void TaskOnClick()
     {
-        SceneManager.LoadScene("SampleScene", LoadSceneMode.Single);
+        SceneManager.LoadScene("LevelSel", LoadSceneMode.Single);
     }
 }

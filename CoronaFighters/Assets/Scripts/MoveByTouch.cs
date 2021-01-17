@@ -43,15 +43,15 @@ public class MoveByTouch : MonoBehaviour
             //Jumping
             else if (touch1.phase == TouchPhase.Ended)
             {
-                
+                /* 
                 tapTime = Time.time - timer;
-                if (tapTime < 0.5)
+                if (tapTime < 20)
                 {
-                    transform.Translate(0, 5 * Time.deltaTime, 0);
+                    transform.Translate(0, 10, 0);
 
 
                 }
-
+*/
             }
         }
          
